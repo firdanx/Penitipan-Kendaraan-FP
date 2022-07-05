@@ -1,0 +1,32 @@
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\bin\Debug\net6.0-windows\Penitipan Kendaraan FP.exe
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\bin\Debug\net6.0-windows\Penitipan Kendaraan FP.deps.json
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\bin\Debug\net6.0-windows\Penitipan Kendaraan FP.runtimeconfig.json
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\bin\Debug\net6.0-windows\Penitipan Kendaraan FP.dll
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\bin\Debug\net6.0-windows\Penitipan Kendaraan FP.pdb
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\obj\Debug\net6.0-windows\Penitipan Kendaraan FP.vbproj.AssemblyReference.cache
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\obj\Debug\net6.0-windows\Penitipan Kendaraan FP.vbproj.GenerateResource.cache
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\obj\Debug\net6.0-windows\Penitipan Kendaraan FP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\obj\Debug\net6.0-windows\Penitipan Kendaraan FP.AssemblyInfoInputs.cache
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\obj\Debug\net6.0-windows\Penitipan Kendaraan FP.AssemblyInfo.vb
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\obj\Debug\net6.0-windows\Penitipan Kendaraan FP.vbproj.CoreCompileInputs.cache
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\obj\Debug\net6.0-windows\Penitipan Kendaraan FP.dll
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\obj\Debug\net6.0-windows\refint\Penitipan Kendaraan FP.dll
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\obj\Debug\net6.0-windows\Penitipan Kendaraan FP.pdb
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\obj\Debug\net6.0-windows\Penitipan Kendaraan FP.genruntimeconfig.cache
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\obj\Debug\net6.0-windows\ref\Penitipan Kendaraan FP.dll
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\obj\Debug\net6.0-windows\Penitipan Kendaraan FP.vbproj.CopyComplete
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\obj\Debug\net6.0-windows\Penitipan_Kendaraan_FP.FormKendaraan.resources
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\obj\Debug\net6.0-windows\Penitipan_Kendaraan_FP.FormLogin.resources
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\obj\Debug\net6.0-windows\Penitipan_Kendaraan_FP.FormLokasi.resources
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\obj\Debug\net6.0-windows\Penitipan_Kendaraan_FP.FormPemilik.resources
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\obj\Debug\net6.0-windows\Penitipan_Kendaraan_FP.FormPencatatan.resources
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\bin\Debug\net6.0-windows\System.Data.Odbc.dll
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\bin\Debug\net6.0-windows\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\bin\Debug\net6.0-windows\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\bin\Debug\net6.0-windows\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\bin\Debug\net6.0-windows\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\bin\Debug\net6.0-windows\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\bin\Debug\net6.0-windows\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\bin\Debug\net6.0-windows\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+C:\Users\windows\source\repos\Penitipan Kendaraan FP\Penitipan Kendaraan FP\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.Odbc.dll
